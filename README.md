@@ -6,7 +6,7 @@ If you plan to deploy and use this in a Production environment please review the
 
 ## Use-case scenario
 
-Allows customers to use GenAi to categorize incoming emails and assign an urgency so that processing can be handled different for each category and urgency. For example, urgent emails could have an Amazon Connect outboud call initiated so a Customer Service agent can reach out directly.  Non-urgent emails can have a Connect Task created so Agents can work through a queue of inbound emails.
+Allows customers to use GenAI to categorize incoming emails and assign an urgency so that processing can be handled different for each category and urgency. For example, urgent emails could have an Amazon Connect outboud call initiated so a Customer Service agent can reach out directly.  Non-urgent emails can have a Connect Task created so Agents can work through a queue of inbound emails.
 
 This Solution will configure the following:
 - S3 Bucket to receive inbound email messages
